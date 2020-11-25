@@ -5,18 +5,18 @@
 
 <h2>Find me elsewhere</h2>
 
-<a href="#">
-  <img src="/thaylorz/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="max-width:100%;">
+<a href="https://www.linkedin.com/in/thaylor-dos-santos-2a2989162/">
+  <img src="/linkedin.svg" alt="linkedin" style="max-width:100%;">
+</a>
+
+<a href="mailto:thaylormichi@gmail.com">
+  <img src="/gmail.svg" alt="gmail" style="max-width:100%;">
 </a>
 
 <a href="#">
-  <img src="/thaylorz/ColoredBadges/raw/master/svg/social/gmail.svg" alt="gmail" style="max-width:100%;">
+   <img src="/instagram.svg" alt="instagram" style="max-width:100%;">
 </a>
 
 <a href="#">
-   <img src="/thaylorz/ColoredBadges/raw/master/svg/social/instagram.svg" alt="instagram" style="max-width:100%;">
-</a>
-
-<a href="#">
-  <img src="/thaylorz/ColoredBadges/raw/master/svg/social/whatsapp.svg" alt="whatsapp" style="max-width:100%;">
+  <img src="/whatsapp.svg" alt="whatsapp" style="max-width:100%;">
 </a>
