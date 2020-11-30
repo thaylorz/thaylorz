@@ -3,7 +3,7 @@
 
 <p>Enquanto não estou programando, gosto de jogar alguns jogos 🎮, assistir filmes 🎥 e séries 📺, ler livros 📚 e sair para conhecer lugares incríveis, principalmente praias 🏝.</p>
 
-<h2>Me encontre em outros lugares</h2>
+<h2>Você pode me encontrar em outros lugares</h2>
 
 <a href="https://www.linkedin.com/in/thaylor-dos-santos-2a2989162/">
   <img src="/linkedin.svg" alt="linkedin" style="max-width:100%;">
