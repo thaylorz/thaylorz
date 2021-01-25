@@ -1,7 +1,7 @@
 <h1>Olá 👋</h1>
-<p>Meu nome é Thaylor Santos. Estudo e trabalho programação desde 2018 e atualmente trabalho com tecnologias front-end Javascript, Node.js e ReactJS.</p>
+<p>Meu nome é Thaylor Santos. Estudo e trabalho com programação desde 2018 e atualmente trabalho com tecnologias front-end Javascript, Node.js e ReactJS.</p>
 
-<p>Enquanto não estou programando, gosto de jogar alguns jogos 🎮, assistir filmes 🎥 e séries 📺, ler livros 📚 e sair para conhecer lugares incríveis, principalmente praias 🏝.</p>
+<p>Enquanto não estou programando, gosto de jogar alguns jogos 🎮, assistir filmes 🎥 e séries 📺, ler livros 📚 e sair para conhecer lugares, principalmente praias 🏝.</p>
 
 <h2>Você pode me encontrar em outros lugares</h2>
 
