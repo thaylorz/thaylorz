@@ -1,5 +1,3 @@
-<h1>Olá 👋</h1>
-
 <h2>Você pode me encontrar em outros lugares</h2>
 
 <a href="https://www.linkedin.com/in/thaylor-dos-santos-2a2989162/">
